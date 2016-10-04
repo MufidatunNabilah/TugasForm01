@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="asal">
+        <item>Pilih</item>
+        <item>Pasirian</item>
+        <item>Tempeh</item>
+        <item>Ledok</item>
+        <item>Condro</item>
+        <item>Selok</item>
+    </string-array>
+
+</resources>
